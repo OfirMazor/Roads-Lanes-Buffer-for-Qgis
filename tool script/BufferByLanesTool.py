@@ -85,7 +85,7 @@ class BufferByLanes(ProcessingAlgorithm):
         return self.tr(ToolHelp)
         
     def icon(self):
-        return QIcon("Path to .svg file")
+        return QIcon(r"\\horizonuem\UEMProfileData\ofir\Downloads\buffer-svgrepo-com.svg")
 
 
 
